@@ -1,6 +1,9 @@
 # NovaTrade AI 🧠
 
-NovaTrade AI is an advanced trading analytics dashboard built with Streamlit. It merges historical trader execution data with overall market sentiment (Fear & Greed Index) to identify profitable behaviors, cluster trading archetypes, and predict future account performance using machine learning.
+NovaTrade AI is an advanced trading analytics dashboard built with Streamlit. It merges historical trader execution data with overall market sentiment (Fear & Greed Index) to identify profitable behaviors, cluster trading archetypes, and predict future account performance using machine learning. 
+
+## Deployed Streamlit App link :
+https://novatrde-ai.streamlit.app/
 
 ## 🚀 Setup & Execution
 
